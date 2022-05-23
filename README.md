@@ -81,12 +81,11 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 [Wireframe Document](https://drive.google.com/file/d/1azCG5lWHHSmTjmbYQY3Q_9hT8VEJMH7o/view?usp=sharing)
 
 
-## Authors✍
-
-- [@SanikaDharwadker](https://www.github.com/SanikaDharwadker)
-
-
 ## ⚡Deployment
 
 
 Deployed on web using Heroku url : https://credit-default-prob.herokuapp.com/
+
+## Authors✍
+
+- [@SanikaDharwadker](https://www.github.com/SanikaDharwadker)
