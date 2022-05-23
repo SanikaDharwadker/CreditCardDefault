@@ -1,0 +1,1609 @@
+INFO:2022-05-19 10:51:52,424: * Restarting with windowsapi reloader
+WARNING:2022-05-19 10:51:56,691: * Debugger is active!
+INFO:2022-05-19 10:51:56,706: * Debugger PIN: 786-588-738
+INFO:2022-05-19 10:51:56,770: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 10:52:48,872:127.0.0.1 - - [19/May/2022 10:52:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:2022-05-19 10:52:49,540:127.0.0.1 - - [19/May/2022 10:52:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2022-05-19 10:53:59,255:Active User Found
+INFO:2022-05-19 10:53:59,263:Inputs from user {'LIMIT_BAL': 1000.0, 'SEX': 'female', 'EDUCATION': 'others', 'MARRIAGE': 'single', 'AGE': 22, 'PAY_0': '3', 'PAY_2': '3', 'PAY_3': '3', 'PAY_4': '3', 'PAY_5': '3', 'PAY_6': '3', 'BILL_AMT1': 300.0, 'BILL_AMT2': 300.0, 'BILL_AMT3': 300.0, 'BILL_AMT4': 300.0, 'BILL_AMT5': 300.0, 'BILL_AMT6': 300.0, 'PAY_AMT1': 300.0, 'PAY_AMT2': 300.0, 'PAY_AMT3': 300.0, 'PAY_AMT4': 300.0, 'PAY_AMT5': 300.0, 'PAY_AMT6': 300.0}
+INFO:2022-05-19 10:53:59,263: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+INFO:2022-05-19 10:53:59,687:Probability Of Default is 0.9184525136972118
+INFO:2022-05-19 10:53:59,687:127.0.0.1 - - [19/May/2022 10:53:59] "[37mPOST /predict HTTP/1.1[0m" 200 -
+INFO:2022-05-19 10:54:00,639: * Restarting with windowsapi reloader
+WARNING:2022-05-19 10:54:05,364: * Debugger is active!
+INFO:2022-05-19 10:54:05,373: * Debugger PIN: 786-588-738
+INFO:2022-05-19 10:54:05,470: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 10:55:29,532:Active User Found
+INFO:2022-05-19 10:55:29,540:Inputs from user {'LIMIT_BAL': 1000000000.0, 'SEX': 'female', 'EDUCATION': 'others', 'MARRIAGE': 'single', 'AGE': 22, 'PAY_0': '-2', 'PAY_2': '-2', 'PAY_3': '-2', 'PAY_4': '-2', 'PAY_5': '-2', 'PAY_6': '-2', 'BILL_AMT1': 1000.0, 'BILL_AMT2': 1000.0, 'BILL_AMT3': 1000.0, 'BILL_AMT4': 1000.0, 'BILL_AMT5': 1000.0, 'BILL_AMT6': 1000.0, 'PAY_AMT1': 22.0, 'PAY_AMT2': 22.0, 'PAY_AMT3': 22.0, 'PAY_AMT4': 22.0, 'PAY_AMT5': 22.0, 'PAY_AMT6': 22.0}
+INFO:2022-05-19 10:55:29,916:Probability Of Default is 0.40604563410247496
+INFO:2022-05-19 10:55:29,924:127.0.0.1 - - [19/May/2022 10:55:29] "[37mPOST /predict HTTP/1.1[0m" 200 -
+INFO:2022-05-19 11:00:52,805: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 11:00:52,807: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 11:00:54,195: * Restarting with windowsapi reloader
+WARNING:2022-05-19 11:00:59,368: * Debugger is active!
+INFO:2022-05-19 11:00:59,392: * Debugger PIN: 786-588-738
+INFO:2022-05-19 11:00:59,464: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 11:01:13,729: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:01:15,212: * Restarting with windowsapi reloader
+WARNING:2022-05-19 11:01:19,985: * Debugger is active!
+INFO:2022-05-19 11:01:19,993: * Debugger PIN: 786-588-738
+INFO:2022-05-19 11:01:20,081: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 11:26:42,341: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,341: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,349: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,357: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\base.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,357: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\__pycache__\\entrypoints.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,365: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\exporter.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,365: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\html.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,365: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\ansi.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\citation.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\html\\__pycache__\\parser.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,381: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_markupbase.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,389: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\datatypefilter.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,389: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,389: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\utils\\__pycache__\\base.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,397: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\highlight.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,400: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\latex.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,402: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\utils\\__pycache__\\pandoc.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,404: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\utils\\__pycache__\\version.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,406: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\utils\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\markdown.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,411: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\markdown_mistune.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,414: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\__pycache__\\mistune.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,437: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\strings.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,441: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\defusedxml\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,443: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\defusedxml\\__pycache__\\common.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,447: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\xml\\parsers\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,449: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\xml\\parsers\\__pycache__\\expat.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,468: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\defusedxml\\__pycache__\\cElementTree.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,470: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\xml\\etree\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,473: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\xml\\etree\\__pycache__\\cElementTree.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,476: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\xml\\etree\\__pycache__\\ElementTree.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,479: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\xml\\etree\\__pycache__\\ElementPath.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,492: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\defusedxml\\__pycache__\\ElementTree.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,498: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\pandoc.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,499: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\metadata.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,501: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\templateexporter.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,505: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\slides.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,508: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\latex.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,509: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\filters\\__pycache__\\filter_links.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,511: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\__pycache__\\pandocfilters.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,513: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\markdown.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,515: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\asciidoc.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,517: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\notebook.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,519: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\pdf.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,522: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\testpath\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,525: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\testpath\\__pycache__\\asserts.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,527: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\testpath\\__pycache__\\env.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,528: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\testpath\\__pycache__\\commands.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,531: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\testpath\\__pycache__\\tempdir.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,532: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\python.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,534: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\rst.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,536: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\exporters\\__pycache__\\script.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,540: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,542: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\base.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,543: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\convertfigures.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,545: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\svg2pdf.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,561: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\extractoutput.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,562: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\latex.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,564: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\csshtmlheader.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,566: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\resources\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,567: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\highlightmagics.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,569: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\clearoutput.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,571: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\execute.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,575: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\regexremove.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,576: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\tagremove.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,578: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\clearmetadata.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,580: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\preprocessors\\__pycache__\\coalescestreams.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,582: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\postprocessors\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,584: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\postprocessors\\__pycache__\\base.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,586: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\postprocessors\\__pycache__\\serve.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,589: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\writers\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,592: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\writers\\__pycache__\\debug.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,594: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\writers\\__pycache__\\base.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,596: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\writers\\__pycache__\\files.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,598: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\writers\\__pycache__\\stdout.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:42,601: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\nbconvert\\utils\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:2022-05-19 11:26:44,061: * Restarting with windowsapi reloader
+WARNING:2022-05-19 11:26:47,941: * Debugger is active!
+INFO:2022-05-19 11:26:47,956: * Debugger PIN: 786-588-738
+INFO:2022-05-19 11:26:48,003: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 11:27:09,181: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pandas\\io\\formats\\__pycache__\\html.cpython-38.pyc', reloading
+INFO:2022-05-19 11:27:10,436: * Restarting with windowsapi reloader
+WARNING:2022-05-19 11:27:14,220: * Debugger is active!
+INFO:2022-05-19 11:27:14,236: * Debugger PIN: 786-588-738
+INFO:2022-05-19 11:27:14,283: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 11:32:31,562: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+INFO:2022-05-19 11:32:32,770: * Restarting with windowsapi reloader
+WARNING:2022-05-19 11:32:36,567: * Debugger is active!
+INFO:2022-05-19 11:32:36,567: * Debugger PIN: 786-588-738
+INFO:2022-05-19 11:32:36,630: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 11:40:26,363: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,363: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,363: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,363: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,363: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,378: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,394: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_sitebuiltins.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,394: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_bootlocale.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,421: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\contextlib.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,421: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,429: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,429: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,437: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,438: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,438: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,470: * Detected change in 'C:\\Users\\hp\\anaconda3\\Scripts\\conda-script.py', reloading
+INFO:2022-05-19 11:40:26,478: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,486: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\__future__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,486: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,486: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\decoder.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,494: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,494: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,494: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_compile.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,494: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_parse.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,494: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_constants.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,502: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,502: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\scanner.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,502: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\encoder.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,510: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,510: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,510: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tempfile.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,510: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shutil.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,510: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\fnmatch.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,518: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\posixpath.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,518: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bz2.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,526: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_compression.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,526: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\threading.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,526: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_weakrefset.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,534: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\lzma.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,550: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\random.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,550: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bisect.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,550: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\weakref.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,550: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,558: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,558: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,558: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,558: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\datetime.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,558: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\logging\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,566: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\traceback.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,566: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\linecache.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,566: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tokenize.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,566: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\token.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,574: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\string.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,574: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\textwrap.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,582: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\getpass.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,590: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,590: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,590: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\entity.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,590: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,598: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,598: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,598: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\collection.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,598: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,598: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\five.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,606: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\imp.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,606: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\six.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,606: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\struct.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,606: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shlex.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,614: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,614: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\ish.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,614: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\logz.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,614: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\type_coercion.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,622: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\decorators.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,622: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,622: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,630: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,638: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,638: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\itertoolz.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,638: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,646: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,646: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\functoolz.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,646: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,646: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,646: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\opcode.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,654: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,654: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\dicttoolz.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,654: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\recipes.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,654: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,654: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,662: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,694: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,702: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,702: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\core.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,702: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\parallel.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,714: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,714: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\copy.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,739: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:26,739: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-19 11:40:28,087: * Restarting with windowsapi reloader
+WARNING:2022-05-19 11:40:31,690: * Debugger is active!
+INFO:2022-05-19 11:40:31,698: * Debugger PIN: 786-588-738
+INFO:2022-05-19 11:40:31,778: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 11:50:50,376: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+INFO:2022-05-19 11:50:50,376: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+INFO:2022-05-19 11:50:50,376: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+INFO:2022-05-19 11:50:50,376: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+INFO:2022-05-19 11:50:51,618: * Restarting with windowsapi reloader
+WARNING:2022-05-19 11:50:55,230: * Debugger is active!
+INFO:2022-05-19 11:50:55,246: * Debugger PIN: 786-588-738
+INFO:2022-05-19 11:50:55,292: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:40:27,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,099: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,099: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,099: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_sitebuiltins.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,099: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_bootlocale.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,099: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\contextlib.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,131: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,131: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,131: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,162: * Detected change in 'C:\\Users\\hp\\anaconda3\\Scripts\\conda-script.py', reloading
+INFO:2022-05-19 12:40:27,168: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,168: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\__future__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,184: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,184: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\decoder.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,184: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,184: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,184: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_compile.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,184: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_parse.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,184: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_constants.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\scanner.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\encoder.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tempfile.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shutil.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,200: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\fnmatch.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,215: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\posixpath.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,215: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bz2.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,215: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_compression.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,215: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\threading.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,215: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_weakrefset.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,231: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\lzma.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,231: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\random.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bisect.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\weakref.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\datetime.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\logging\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,262: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\traceback.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,262: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\linecache.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,262: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tokenize.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,262: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\token.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,262: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\string.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,278: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\textwrap.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,278: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\getpass.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,278: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,278: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,278: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\entity.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,278: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,293: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,293: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,293: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\collection.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,293: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,293: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\five.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,293: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\imp.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,293: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\six.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\struct.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shlex.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\ish.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\logz.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\type_coercion.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\decorators.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,309: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,325: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,342: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,342: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\itertoolz.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,342: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,342: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,342: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\functoolz.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,342: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,358: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,358: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\opcode.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,358: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\dicttoolz.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\recipes.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,373: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,420: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,420: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,436: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\core.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,436: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\parallel.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,451: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,469: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\copy.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,485: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:27,485: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-19 12:40:29,078: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:40:33,656: * Debugger is active!
+INFO:2022-05-19 12:40:33,672: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:40:33,750: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:44:43,077: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 12:44:43,077: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+INFO:2022-05-19 12:44:43,077: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+INFO:2022-05-19 12:44:43,092: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+INFO:2022-05-19 12:44:43,092: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\contextlib.cpython-38.pyc', reloading
+INFO:2022-05-19 12:44:43,092: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+INFO:2022-05-19 12:44:44,594: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:44:49,441: * Debugger is active!
+INFO:2022-05-19 12:44:49,457: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:44:49,535: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:46:54,886: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:46:54,886: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:46:54,894: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:46:54,894: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:46:54,894: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:46:54,894: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:46:54,902: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:46:56,272: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:47:01,113: * Debugger is active!
+INFO:2022-05-19 12:47:01,129: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:47:01,215: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:47:04,362: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:47:05,837: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:47:10,867: * Debugger is active!
+INFO:2022-05-19 12:47:10,883: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:47:10,947: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:47:42,574: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:47:42,574: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:47:43,957: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:47:49,131: * Debugger is active!
+INFO:2022-05-19 12:47:49,150: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:47:49,236: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:48:20,383: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:48:20,388: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:48:20,388: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:48:20,396: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:48:20,396: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:48:20,396: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:48:20,396: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:48:21,733: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:48:26,216: * Debugger is active!
+INFO:2022-05-19 12:48:26,231: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:48:26,294: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:50:13,366: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:50:14,738: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:50:19,938: * Debugger is active!
+INFO:2022-05-19 12:50:19,954: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:50:20,007: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:50:21,145: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:50:22,547: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:50:27,179: * Debugger is active!
+INFO:2022-05-19 12:50:27,196: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:50:27,259: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:52:15,217: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:52:15,217: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:52:16,599: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:52:21,563: * Debugger is active!
+INFO:2022-05-19 12:52:21,578: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:52:21,641: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:53:30,636: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:53:30,644: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:53:30,644: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:53:30,652: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:53:30,652: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:53:30,652: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:53:30,652: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:53:32,019: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:53:36,729: * Debugger is active!
+INFO:2022-05-19 12:53:36,744: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:53:36,811: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:53:37,105: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:53:38,435: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:53:43,792: * Debugger is active!
+INFO:2022-05-19 12:53:43,807: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:53:43,885: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:54:05,305: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:54:05,305: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:54:06,678: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:54:11,970: * Debugger is active!
+INFO:2022-05-19 12:54:11,985: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:54:12,063: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:56:27,117: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:56:27,125: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:56:27,125: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:56:27,125: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:56:27,125: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:56:27,125: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:56:27,125: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 12:56:28,498: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:56:32,885: * Debugger is active!
+INFO:2022-05-19 12:56:32,901: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:56:32,973: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:56:41,132: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:56:42,472: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:56:47,314: * Debugger is active!
+INFO:2022-05-19 12:56:47,331: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:56:47,412: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:59:01,248: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:59:01,248: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:59:02,629: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:59:07,492: * Debugger is active!
+INFO:2022-05-19 12:59:07,509: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:59:07,571: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 12:59:45,843: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 12:59:47,231: * Restarting with windowsapi reloader
+WARNING:2022-05-19 12:59:52,372: * Debugger is active!
+INFO:2022-05-19 12:59:52,388: * Debugger PIN: 786-588-738
+INFO:2022-05-19 12:59:52,466: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:00:27,582: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:00:27,582: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:00:29,012: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:00:33,645: * Debugger is active!
+INFO:2022-05-19 13:00:33,660: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:00:33,723: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:00:46,934: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:00:46,942: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:00:46,942: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:00:46,942: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:00:46,950: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:00:46,950: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:00:48,288: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:00:53,330: * Debugger is active!
+INFO:2022-05-19 13:00:53,346: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:00:53,438: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:00:59,918: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:01:01,294: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:01:06,493: * Debugger is active!
+INFO:2022-05-19 13:01:06,509: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:01:06,576: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:01:53,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:01:53,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:01:56,435: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:02:00,978: * Debugger is active!
+INFO:2022-05-19 13:02:00,997: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:02:01,071: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:03:12,185: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:03:12,185: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:03:12,193: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:03:12,193: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:03:12,193: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:03:12,193: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:03:12,193: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:03:13,565: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:03:18,589: * Debugger is active!
+INFO:2022-05-19 13:03:18,613: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:03:18,684: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:03:25,323: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:03:26,722: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:03:31,958: * Debugger is active!
+INFO:2022-05-19 13:03:31,982: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:03:32,066: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:07:30,283: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:07:30,284: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:07:31,487: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:07:35,365: * Debugger is active!
+INFO:2022-05-19 13:07:35,365: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:07:35,428: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:08:03,749: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:08:04,970: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:08:07,926: * Debugger is active!
+INFO:2022-05-19 13:08:07,938: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:08:07,969: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:08:18,479: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:08:18,479: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:08:19,671: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:08:22,654: * Debugger is active!
+INFO:2022-05-19 13:08:22,663: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:08:22,703: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:09:51,782: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:09:51,787: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:09:51,788: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:09:51,789: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:09:51,790: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:09:51,792: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:09:53,020: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:09:55,865: * Debugger is active!
+INFO:2022-05-19 13:09:55,865: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:09:55,910: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:09:58,572: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:09:59,762: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:10:02,623: * Debugger is active!
+INFO:2022-05-19 13:10:02,632: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:10:02,672: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:10:46,025: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:10:46,026: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:10:47,223: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:10:50,207: * Debugger is active!
+INFO:2022-05-19 13:10:50,218: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:10:50,261: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:16:48,575: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:16:48,578: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:16:48,579: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:16:48,580: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:16:48,581: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:16:48,583: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-19 13:16:50,558: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:16:53,387: * Debugger is active!
+INFO:2022-05-19 13:16:53,403: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:16:53,448: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:17:00,423: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:17:01,615: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:17:04,462: * Debugger is active!
+INFO:2022-05-19 13:17:04,462: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:17:04,494: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:19:26,243: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:19:26,243: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:19:27,446: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:19:30,476: * Debugger is active!
+INFO:2022-05-19 13:19:30,492: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:19:30,523: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:19:54,640: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-19 13:19:55,859: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:19:58,730: * Debugger is active!
+INFO:2022-05-19 13:19:58,739: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:19:58,779: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:20:34,694: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:20:37,383: * Debugger is active!
+INFO:2022-05-19 13:20:37,392: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:20:37,435: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:21:29,741:127.0.0.1 - - [19/May/2022 13:21:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:2022-05-19 13:21:29,742: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+INFO:2022-05-19 13:21:30,944: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:21:33,926: * Debugger is active!
+INFO:2022-05-19 13:21:33,934: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:21:33,970: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 13:22:10,610:Active User Found
+INFO:2022-05-19 13:22:10,615:Inputs from user {'LIMIT_BAL': 1000.0, 'SEX': 'male', 'EDUCATION': 'high school', 'MARRIAGE': 'single', 'AGE': 22, 'PAY_0': '-2', 'PAY_2': '-2', 'PAY_3': '-2', 'PAY_4': '-2', 'PAY_5': '-2', 'PAY_6': '-2', 'BILL_AMT1': 10.0, 'BILL_AMT2': 10.0, 'BILL_AMT3': 10.0, 'BILL_AMT4': 10.0, 'BILL_AMT5': 10.0, 'BILL_AMT6': 100.0, 'PAY_AMT1': 10.0, 'PAY_AMT2': 10.0, 'PAY_AMT3': 10.0, 'PAY_AMT4': 10.0, 'PAY_AMT5': 10.0, 'PAY_AMT6': 10.0}
+INFO:2022-05-19 13:22:10,617: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+INFO:2022-05-19 13:22:10,852:Probability Of Default is 0.49051673317770467
+INFO:2022-05-19 13:22:10,858:127.0.0.1 - - [19/May/2022 13:22:10] "[37mPOST /predict HTTP/1.1[0m" 200 -
+INFO:2022-05-19 13:22:12,025: * Restarting with windowsapi reloader
+WARNING:2022-05-19 13:22:14,680: * Debugger is active!
+INFO:2022-05-19 13:22:14,680: * Debugger PIN: 786-588-738
+INFO:2022-05-19 13:22:14,711: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-19 14:07:09,863: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,871: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,871: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,871: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,871: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,879: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,887: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,887: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,887: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,895: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,895: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,903: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,911: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,919: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:09,927: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_sitebuiltins.cpython-38.pyc', reloading
+INFO:2022-05-19 14:07:10,645: * Restarting with windowsapi reloader
+WARNING:2022-05-19 14:07:15,581: * Debugger is active!
+INFO:2022-05-19 14:07:15,597: * Debugger PIN: 786-588-738
+INFO:2022-05-19 14:07:15,660: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-21 00:23:10,644: * Restarting with windowsapi reloader
+WARNING:2022-05-21 00:23:15,430: * Debugger is active!
+INFO:2022-05-21 00:23:15,445: * Debugger PIN: 786-588-738
+INFO:2022-05-21 00:23:15,508: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-21 00:26:47,695: * Restarting with windowsapi reloader
+WARNING:2022-05-21 00:26:53,570: * Debugger is active!
+INFO:2022-05-21 00:26:53,586: * Debugger PIN: 786-588-738
+INFO:2022-05-21 00:26:53,665: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-21 00:36:32,554: * Restarting with windowsapi reloader
+WARNING:2022-05-21 00:36:37,590: * Debugger is active!
+INFO:2022-05-21 00:36:37,605: * Debugger PIN: 786-588-738
+INFO:2022-05-21 00:36:37,684: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 11:59:57,875: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:00:01,436: * Debugger is active!
+INFO:2022-05-22 12:00:01,456: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:00:01,516: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:00:25,752:127.0.0.1 - - [22/May/2022 12:00:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:00:25,752: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+INFO:2022-05-22 12:00:26,104:127.0.0.1 - - [22/May/2022 12:00:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2022-05-22 12:00:26,995: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:00:30,653: * Debugger is active!
+INFO:2022-05-22 12:00:30,663: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:00:30,723: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:01:02,946:Active User Found
+INFO:2022-05-22 12:01:02,954: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+INFO:2022-05-22 12:01:02,970: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:2022-05-22 12:01:02,978: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO:2022-05-22 12:01:03,010: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\werkzeug\\datastructures.py', reloading
+INFO:2022-05-22 12:01:08,536: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:01:11,836: * Debugger is active!
+INFO:2022-05-22 12:01:11,856: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:01:11,906: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:04:00,368: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:04:03,568: * Debugger is active!
+INFO:2022-05-22 12:04:03,588: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:04:03,638: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:04:41,342:127.0.0.1 - - [22/May/2022 12:04:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:05:13,628:Active User Found
+INFO:2022-05-22 12:05:13,679:127.0.0.1 - - [22/May/2022 12:05:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+INFO:2022-05-22 12:05:13,711:127.0.0.1 - - [22/May/2022 12:05:13] "[37mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:05:13,719:127.0.0.1 - - [22/May/2022 12:05:13] "[37mGET /predict?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:05:13,719:127.0.0.1 - - [22/May/2022 12:05:13] "[37mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:05:13,775:127.0.0.1 - - [22/May/2022 12:05:13] "[37mGET /predict?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:05:13,871:127.0.0.1 - - [22/May/2022 12:05:13] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:05:13,936:127.0.0.1 - - [22/May/2022 12:05:13] "[37mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:06:04,352: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:06:04,352: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:06:05,612: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:06:08,904: * Debugger is active!
+INFO:2022-05-22 12:06:08,924: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:06:08,974: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:07:04,654: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:07:04,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:07:04,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:07:04,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:07:04,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:07:04,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:07:06,950: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:07:11,167: * Debugger is active!
+INFO:2022-05-22 12:07:11,175: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:07:11,233: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:07:18,675: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:07:19,967: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:07:23,893: * Debugger is active!
+INFO:2022-05-22 12:07:23,903: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:07:23,953: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:07:39,180: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:07:42,453: * Debugger is active!
+INFO:2022-05-22 12:07:42,463: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:07:42,513: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:08:28,704:127.0.0.1 - - [22/May/2022 12:08:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:09:17,852:Active User Found
+INFO:2022-05-22 12:09:17,860:Inputs from user {'LIMIT_BAL': 1000000.0, 'SEX': 'female', 'EDUCATION': 'high school', 'MARRIAGE': 'single', 'AGE': 22, 'PAY_0': '-2', 'PAY_2': '-2', 'PAY_3': '-2', 'PAY_4': '-2', 'PAY_5': '-2', 'PAY_6': '-2', 'BILL_AMT1': 200.0, 'BILL_AMT2': 200.0, 'BILL_AMT3': 200.0, 'BILL_AMT4': 200.0, 'BILL_AMT5': 200.0, 'BILL_AMT6': 200.0, 'PAY_AMT1': 200.0, 'PAY_AMT2': 200.0, 'PAY_AMT3': 200.0, 'PAY_AMT4': 200.0, 'PAY_AMT5': 200.0, 'PAY_AMT6': 200.0}
+INFO:2022-05-22 12:09:18,327:Probability Of Default is 0.4476479907090791
+INFO:2022-05-22 12:09:18,327:127.0.0.1 - - [22/May/2022 12:09:18] "[37mPOST /predict HTTP/1.1[0m" 200 -
+INFO:2022-05-22 12:09:35,192: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:09:35,192: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:09:36,444: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:09:39,999: * Debugger is active!
+INFO:2022-05-22 12:09:40,009: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:09:40,039: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:09:46,026: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:09:46,033: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:09:46,034: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:09:46,034: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:09:46,034: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:09:46,034: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:09:47,282: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:09:51,259: * Debugger is active!
+INFO:2022-05-22 12:09:51,275: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:09:51,323: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:13:50,216: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:13:51,485: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:13:55,640: * Debugger is active!
+INFO:2022-05-22 12:13:55,664: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:13:55,728: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:13:59,866: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:14:00,163: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:14:04,024: * Debugger is active!
+INFO:2022-05-22 12:14:04,034: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:14:04,094: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:14:09,218: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:09,218: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:09,226: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:09,226: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:14:09,226: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:14:09,226: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:10,502: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:14:14,094: * Debugger is active!
+INFO:2022-05-22 12:14:14,104: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:14:14,168: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:14:19,178: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:20,433: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:14:24,056: * Debugger is active!
+INFO:2022-05-22 12:14:24,072: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:14:24,127: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:14:24,329: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:24,329: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:24,329: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:14:24,329: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:14:24,329: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:14:24,329: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:14:25,634: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:14:29,220: * Debugger is active!
+INFO:2022-05-22 12:14:29,236: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:14:29,308: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:16:54,248: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:16:54,248: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:16:56,109: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:16:59,344: * Debugger is active!
+INFO:2022-05-22 12:16:59,354: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:16:59,404: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:18:21,872: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:18:21,872: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:18:21,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:18:21,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:18:21,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:18:21,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:18:21,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:18:23,199: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:18:27,394: * Debugger is active!
+INFO:2022-05-22 12:18:27,410: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:18:27,474: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:18:34,313: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:18:35,559: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:18:39,347: * Debugger is active!
+INFO:2022-05-22 12:18:39,357: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:18:39,418: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:19:27,912: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:19:27,912: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:19:29,161: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:19:32,706: * Debugger is active!
+INFO:2022-05-22 12:19:32,716: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:19:32,766: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:19:54,560: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:19:54,566: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:19:54,566: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:19:54,566: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:19:54,566: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:19:54,566: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:19:55,873: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:19:59,866: * Debugger is active!
+INFO:2022-05-22 12:19:59,882: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:19:59,938: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:20:02,818: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:20:04,088: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:20:07,476: * Debugger is active!
+INFO:2022-05-22 12:20:07,496: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:20:07,546: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:21:12,328: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:21:12,328: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:21:13,555: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:21:17,267: * Debugger is active!
+INFO:2022-05-22 12:21:17,283: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:21:17,342: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:23:43,669: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:23:43,677: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:23:43,677: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:23:43,677: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:23:43,677: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:23:43,685: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:23:44,937: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:23:48,782: * Debugger is active!
+INFO:2022-05-22 12:23:48,806: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:23:48,894: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:23:55,492: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:23:56,750: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:24:00,101: * Debugger is active!
+INFO:2022-05-22 12:24:00,111: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:24:00,161: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:24:19,061: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:24:19,069: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:24:20,352: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:24:23,734: * Debugger is active!
+INFO:2022-05-22 12:24:23,744: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:24:23,794: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:24:50,090: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:24:50,154: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:24:50,154: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:24:50,154: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:24:50,154: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:24:50,154: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:24:51,436: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:24:54,927: * Debugger is active!
+INFO:2022-05-22 12:24:54,947: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:24:55,006: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:24:59,868: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:25:01,186: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:25:05,134: * Debugger is active!
+INFO:2022-05-22 12:25:05,144: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:25:05,194: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:25:25,492: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:25:25,492: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:25:26,760: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:25:30,513: * Debugger is active!
+INFO:2022-05-22 12:25:30,521: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:25:30,570: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:26:15,072: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:26:15,080: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:26:15,080: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:26:15,080: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:26:15,080: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:26:15,080: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:26:15,080: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:26:16,332: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:26:20,336: * Debugger is active!
+INFO:2022-05-22 12:26:20,344: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:26:20,408: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:26:22,657: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:26:23,922: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:26:27,262: * Debugger is active!
+INFO:2022-05-22 12:26:27,272: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:26:27,342: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:27:00,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:27:00,880: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:27:02,132: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:27:06,187: * Debugger is active!
+INFO:2022-05-22 12:27:06,195: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:27:06,246: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:27:30,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:27:30,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:27:30,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:27:30,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:27:30,094: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:27:30,094: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:27:31,368: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:27:34,899: * Debugger is active!
+INFO:2022-05-22 12:27:34,909: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:27:34,969: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:27:42,338: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:27:43,600: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:27:47,171: * Debugger is active!
+INFO:2022-05-22 12:27:47,181: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:27:47,231: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:47:57,700: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+INFO:2022-05-22 12:47:57,700: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+INFO:2022-05-22 12:47:57,700: * Detected change in 'C:\\Users\\hp\\anaconda3\\pkgs\\python-3.8.3-he1778fa_2\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-22 12:47:59,108: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:48:04,276: * Debugger is active!
+INFO:2022-05-22 12:48:04,292: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:48:04,359: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:48:11,260: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:48:11,260: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:48:12,656: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:48:17,519: * Debugger is active!
+INFO:2022-05-22 12:48:17,539: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:48:17,599: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:48:43,514: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:43,522: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:43,530: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:43,530: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:48:43,530: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:48:43,530: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:48:43,530: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:44,896: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:48:49,254: * Debugger is active!
+INFO:2022-05-22 12:48:49,274: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:48:49,328: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:48:55,906: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:56,076: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:56,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:56,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:48:56,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:48:56,086: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:48:57,456: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:49:02,739: * Debugger is active!
+INFO:2022-05-22 12:49:02,755: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:49:02,805: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:49:05,623: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:49:06,990: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:49:11,355: * Debugger is active!
+INFO:2022-05-22 12:49:11,375: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:49:11,435: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:50:16,930: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:50:16,930: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:50:18,355: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:50:23,605: * Debugger is active!
+INFO:2022-05-22 12:50:23,621: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:50:23,709: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:50:31,277: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:50:31,285: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:50:31,285: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:50:31,285: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:50:31,285: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:50:31,295: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:50:32,677: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:50:37,908: * Debugger is active!
+INFO:2022-05-22 12:50:37,925: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:50:37,991: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:50:40,023: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:50:41,405: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:50:46,033: * Debugger is active!
+INFO:2022-05-22 12:50:46,053: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:50:46,113: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:52:56,759: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:52:56,759: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:52:58,142: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:53:03,053: * Debugger is active!
+INFO:2022-05-22 12:53:03,073: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:53:03,133: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:56:21,210: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:56:21,218: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:56:21,218: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:56:21,218: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:56:21,218: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:56:21,226: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:56:22,594: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:56:27,673: * Debugger is active!
+INFO:2022-05-22 12:56:27,689: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:56:27,766: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:56:28,570: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:56:29,951: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:56:34,420: * Debugger is active!
+INFO:2022-05-22 12:56:34,436: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:56:34,499: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:56:45,811: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:56:45,811: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:56:47,253: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:56:51,754: * Debugger is active!
+INFO:2022-05-22 12:56:51,778: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:56:51,863: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:58:38,408: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:58:38,424: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:58:38,424: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:58:38,424: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:58:38,432: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:58:38,432: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 12:58:39,850: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:58:44,536: * Debugger is active!
+INFO:2022-05-22 12:58:44,552: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:58:44,618: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:58:47,918: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:58:49,305: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:58:53,787: * Debugger is active!
+INFO:2022-05-22 12:58:53,807: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:58:53,867: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 12:59:13,052: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:59:13,052: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 12:59:14,440: * Restarting with windowsapi reloader
+WARNING:2022-05-22 12:59:18,930: * Debugger is active!
+INFO:2022-05-22 12:59:18,950: * Debugger PIN: 786-588-738
+INFO:2022-05-22 12:59:19,020: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:01:36,050: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:01:36,058: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:01:36,066: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:01:36,066: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:01:36,074: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:01:36,074: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:01:37,522: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:01:42,341: * Debugger is active!
+INFO:2022-05-22 13:01:42,365: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:01:42,449: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:02:18,403: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:02:19,780: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:02:24,968: * Debugger is active!
+INFO:2022-05-22 13:02:24,992: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:02:25,049: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:02:26,150: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:02:26,391: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:02:26,391: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:02:26,391: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:02:26,399: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:02:26,399: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:02:27,768: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:02:32,689: * Debugger is active!
+INFO:2022-05-22 13:02:32,709: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:02:32,769: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:02:33,952: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:02:35,305: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:02:39,755: * Debugger is active!
+INFO:2022-05-22 13:02:39,775: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:02:39,845: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,851: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,861: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,861: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,861: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,861: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,871: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,871: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,871: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_sitebuiltins.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,881: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_bootlocale.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,881: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,881: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,881: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,891: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,891: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,891: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,891: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\contextlib.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,891: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,891: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,891: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,901: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,901: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,901: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,932: * Detected change in 'C:\\Users\\hp\\anaconda3\\Scripts\\conda-script.py', reloading
+INFO:2022-05-22 13:45:08,940: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,950: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\__future__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,950: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,950: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\decoder.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,960: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,960: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,960: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_compile.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,970: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_parse.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,970: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_constants.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,980: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,980: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\scanner.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:08,990: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\encoder.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,000: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,000: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,000: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tempfile.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,010: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shutil.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,010: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\fnmatch.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,010: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\posixpath.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,020: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bz2.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,020: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_compression.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,020: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\threading.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,028: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_weakrefset.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,038: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\lzma.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,074: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\random.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,074: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bisect.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\weakref.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,084: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,094: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,094: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,094: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,104: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\datetime.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,104: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\logging\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,114: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\traceback.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,114: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\linecache.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,114: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tokenize.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,124: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\token.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,124: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\string.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,134: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\textwrap.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,144: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\getpass.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,144: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,154: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,154: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\entity.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,161: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,169: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,169: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,177: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\collection.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,177: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,177: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\five.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,187: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\imp.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,187: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\six.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,197: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\struct.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,207: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shlex.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,207: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,207: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\ish.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,217: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\logz.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,217: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\type_coercion.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,217: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\decorators.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,227: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,227: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,247: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,267: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,267: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\itertoolz.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,267: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,267: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,277: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\functoolz.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,277: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,287: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,287: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\opcode.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,297: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,297: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\dicttoolz.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,297: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\recipes.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,307: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,307: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,307: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,409: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,419: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,419: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\core.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,419: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\parallel.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,449: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,469: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\copy.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,479: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,479: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,539: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,539: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,549: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,549: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\constants.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,549: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,559: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\concurrent\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,559: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\concurrent\\futures\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,559: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\concurrent\\futures\\__pycache__\\_base.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,559: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\concurrent\\futures\\__pycache__\\process.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,569: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\queue.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,579: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\multiprocessing\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,579: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\multiprocessing\\__pycache__\\context.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,579: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\multiprocessing\\__pycache__\\process.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,579: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\signal.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,589: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\multiprocessing\\__pycache__\\reduction.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,589: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\pickle.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,589: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_compat_pickle.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,599: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\socket.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,609: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\selectors.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,629: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\multiprocessing\\__pycache__\\connection.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,629: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\multiprocessing\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,639: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\subprocess.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,639: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\multiprocessing\\__pycache__\\queues.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,639: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\concurrent\\futures\\__pycache__\\thread.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,639: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\constants.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,639: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\path.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,649: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,649: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\spawn.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,649: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\errors.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,649: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\debug.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,649: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\log.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,649: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\urllib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,659: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\urllib\\__pycache__\\parse.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,659: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,659: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\_monitor.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,669: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\cli.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,669: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\std.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,669: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\numbers.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,669: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,679: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,679: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\initialise.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,679: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\ansitowin32.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,689: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\ansi.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,689: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\winterm.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,689: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\win32.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,689: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\ctypes\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,719: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\ctypes\\__pycache__\\_endian.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,719: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\ctypes\\__pycache__\\wintypes.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,739: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\version.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,750: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\signals.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,758: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\conda_argparse.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,762: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\argparse.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,766: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\gettext.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,770: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\locale.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,798: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\context.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,798: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\platform.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,806: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\appdirs.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,806: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\win32com\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,822: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\__pycache__\\pythoncom.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,826: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\win32\\lib\\__pycache__\\pywintypes.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,854: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\win32comext\\shell\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,854: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:09,854: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\boltons\\__pycache__\\setutils.cpython-38.pyc', reloading
+INFO:2022-05-22 13:45:11,303: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:45:16,796: * Debugger is active!
+INFO:2022-05-22 13:45:16,816: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:45:16,876: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:46:22,822: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:46:22,823: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:46:24,198: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:46:28,758: * Debugger is active!
+INFO:2022-05-22 13:46:28,778: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:46:28,848: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:47:07,538: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:47:07,546: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:47:07,546: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:47:07,546: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:47:07,546: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:47:07,546: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 13:47:09,905: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:47:14,944: * Debugger is active!
+INFO:2022-05-22 13:47:14,960: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:47:15,048: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 13:47:19,580: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 13:47:20,945: * Restarting with windowsapi reloader
+WARNING:2022-05-22 13:47:25,333: * Debugger is active!
+INFO:2022-05-22 13:47:25,353: * Debugger PIN: 786-588-738
+INFO:2022-05-22 13:47:25,413: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:33:47,813: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:33:47,813: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:33:49,170: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:33:53,656: * Debugger is active!
+INFO:2022-05-22 14:33:53,676: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:33:53,736: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:34:39,644: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:34:39,644: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:34:39,644: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:34:39,644: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:34:39,653: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:34:39,653: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:34:41,045: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:34:46,190: * Debugger is active!
+INFO:2022-05-22 14:34:46,206: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:34:46,294: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:34:48,848: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:34:50,225: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:34:55,008: * Debugger is active!
+INFO:2022-05-22 14:34:55,028: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:34:55,078: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:36:45,467: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:36:45,467: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:36:46,838: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:36:51,620: * Debugger is active!
+INFO:2022-05-22 14:36:51,650: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:36:51,720: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:37:24,046: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:37:24,055: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:37:24,055: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:37:24,063: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:37:24,063: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:37:24,063: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:37:25,536: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:37:30,487: * Debugger is active!
+INFO:2022-05-22 14:37:30,507: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:37:30,582: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:37:31,480: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:37:32,852: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:37:37,430: * Debugger is active!
+INFO:2022-05-22 14:37:37,450: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:37:37,510: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:38:13,614: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:38:13,614: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:38:14,980: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:38:20,259: * Debugger is active!
+INFO:2022-05-22 14:38:20,279: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:38:20,358: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:38:31,643: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:38:31,652: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:38:31,653: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:38:31,653: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:38:31,653: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:38:31,653: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:38:31,653: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:38:33,016: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:38:37,725: * Debugger is active!
+INFO:2022-05-22 14:38:37,735: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:38:37,805: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:38:37,846: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:38:39,404: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:38:44,749: * Debugger is active!
+INFO:2022-05-22 14:38:44,765: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:38:44,845: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:44:43,534: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:44:43,534: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:44:44,925: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:44:49,497: * Debugger is active!
+INFO:2022-05-22 14:44:49,517: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:44:49,577: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:45:23,791: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,791: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,799: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,799: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,799: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,807: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,807: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,807: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,815: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,815: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,815: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,823: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,823: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,823: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,831: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_sitebuiltins.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,839: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_bootlocale.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,839: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,839: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,849: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,849: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,849: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,849: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,859: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\contextlib.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,859: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,859: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,859: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,859: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,869: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,869: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,909: * Detected change in 'C:\\Users\\hp\\anaconda3\\Scripts\\conda-script.py', reloading
+INFO:2022-05-22 14:45:23,917: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,917: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\__future__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,917: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,927: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\decoder.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,927: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,927: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,937: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_compile.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,937: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_parse.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,937: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\sre_constants.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,937: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,937: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\scanner.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,947: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\json\\__pycache__\\encoder.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,947: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,947: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,947: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tempfile.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,947: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shutil.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,957: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\fnmatch.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,957: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\posixpath.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,957: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bz2.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,957: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_compression.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,957: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\threading.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,967: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\_weakrefset.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,977: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\lzma.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,987: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\random.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,987: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\bisect.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,987: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\weakref.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,987: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,997: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,997: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,997: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:23,997: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\datetime.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,007: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\logging\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,007: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\traceback.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,007: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\linecache.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,007: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\tokenize.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,017: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\token.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,017: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\string.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,027: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\textwrap.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,027: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\getpass.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,037: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,037: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,037: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\entity.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,047: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,047: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,047: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,047: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\collection.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,047: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,047: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\five.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,057: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\imp.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,057: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\six.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,057: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\struct.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,057: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\shlex.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,057: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,067: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\ish.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,067: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\logz.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,067: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\type_coercion.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,067: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\decorators.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,075: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,075: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,088: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,095: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,095: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\itertoolz.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,095: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\compatibility.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,095: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,103: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\functoolz.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,103: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,105: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,105: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\opcode.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,105: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\dicttoolz.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\recipes.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,115: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,155: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,155: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,155: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\core.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:24,155: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\parallel.cpython-38.pyc', reloading
+INFO:2022-05-22 14:45:25,530: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:45:30,222: * Debugger is active!
+INFO:2022-05-22 14:45:30,242: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:45:30,313: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:46:23,455: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:46:23,455: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:46:23,455: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:46:23,464: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:46:23,464: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:46:23,472: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:46:24,844: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:46:30,108: * Debugger is active!
+INFO:2022-05-22 14:46:30,124: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:46:30,196: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:46:33,925: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:46:35,304: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:46:39,958: * Debugger is active!
+INFO:2022-05-22 14:46:39,968: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:46:40,018: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:47:08,066: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:47:08,066: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:47:09,465: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:47:14,185: * Debugger is active!
+INFO:2022-05-22 14:47:14,201: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:47:14,273: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:47:40,656: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:47:40,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:47:40,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:47:40,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:47:40,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:47:40,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:47:40,662: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:47:42,046: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:47:46,951: * Debugger is active!
+INFO:2022-05-22 14:47:46,973: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:47:47,034: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:47:50,376: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:47:51,757: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:47:56,151: * Debugger is active!
+INFO:2022-05-22 14:47:56,171: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:47:56,233: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:48:17,683: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:48:17,683: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:48:19,066: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:48:24,012: * Debugger is active!
+INFO:2022-05-22 14:48:24,029: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:48:24,109: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:48:35,967: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:48:35,967: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:48:35,975: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:48:35,975: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:48:35,975: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:48:35,975: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:48:37,489: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:48:42,528: * Debugger is active!
+INFO:2022-05-22 14:48:42,549: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:48:42,609: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:48:45,140: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:48:46,520: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:48:51,128: * Debugger is active!
+INFO:2022-05-22 14:48:51,153: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:48:51,236: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:50:37,836: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:50:39,216: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:50:43,914: * Debugger is active!
+INFO:2022-05-22 14:50:43,934: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:50:43,994: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:50:58,465: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:50:58,473: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:50:58,473: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:50:58,473: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:50:58,481: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:50:58,481: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:50:59,886: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:51:04,909: * Debugger is active!
+INFO:2022-05-22 14:51:04,933: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:51:04,997: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:51:09,031: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:51:10,381: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:51:14,802: * Debugger is active!
+INFO:2022-05-22 14:51:14,812: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:51:14,873: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:51:50,314: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:51:50,314: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:51:51,699: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:51:56,723: * Debugger is active!
+INFO:2022-05-22 14:51:56,739: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:51:56,822: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:52:09,673: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:52:09,681: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:52:09,681: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:52:09,681: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:52:09,681: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:52:09,681: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\.~index.py', reloading
+INFO:2022-05-22 14:52:11,037: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:52:15,889: * Debugger is active!
+INFO:2022-05-22 14:52:15,899: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:52:15,968: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 14:52:18,001: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\Template\\index.py', reloading
+INFO:2022-05-22 14:52:19,385: * Restarting with windowsapi reloader
+WARNING:2022-05-22 14:52:23,875: * Debugger is active!
+INFO:2022-05-22 14:52:23,885: * Debugger PIN: 786-588-738
+INFO:2022-05-22 14:52:23,945: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 15:00:40,043: * Restarting with windowsapi reloader
+WARNING:2022-05-22 15:00:42,364: * Debugger is active!
+INFO:2022-05-22 15:00:42,374: * Debugger PIN: 786-588-738
+INFO:2022-05-22 15:00:42,404: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 15:01:39,578: * Detected change in 'C:\\Users\\hp\\anaconda3\\cwp.py', reloading
+INFO:2022-05-22 15:01:39,588: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\menuinst\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,608: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\menuinst\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,608: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\menuinst\\__pycache__\\win32.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,638: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\sysconfig.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,638: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,638: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\distutils\\__pycache__\\dep_util.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,658: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\menuinst\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,668: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\menuinst\\__pycache__\\knownfolders.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,708: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\menuinst\\__pycache__\\win_elevate.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,778: * Detected change in 'C:\\Users\\hp\\anaconda3\\Scripts\\jupyter-notebook-script.py', reloading
+INFO:2022-05-22 15:01:39,788: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,798: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\__pycache__\\nbextensions.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,888: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\jupyter_core\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,888: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\jupyter_core\\__pycache__\\version.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,888: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\jupyter_core\\__pycache__\\paths.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,898: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,898: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,898: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\py3compat.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,898: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\encoding.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,908: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\jupyter_core\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,908: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\tempdir.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,908: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,908: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\__pycache__\\config_manager.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,918: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,918: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\__pycache__\\traitlets.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,938: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,938: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\getargspec.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,938: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\importstring.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,938: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\sentinel.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,938: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\bunch.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,938: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,938: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\config\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,948: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\config\\__pycache__\\application.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,948: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\__pycache__\\decorator.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,948: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\config\\__pycache__\\configurable.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,958: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\traitlets\\config\\__pycache__\\loader.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,958: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\path.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,958: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\text.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,968: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\ipython_genutils\\__pycache__\\importstring.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,968: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\__pycache__\\extensions.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,968: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,968: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\log.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,988: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\escape.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:39,988: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,008: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\curses\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,018: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\jupyter_core\\__pycache__\\application.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,018: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\__pycache__\\notebookapp.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,018: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\ipaddress.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,028: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\__pycache__\\webbrowser.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\__pycache__\\transutils.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\backend\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,068: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\backend\\__pycache__\\select.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,078: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\backend\\cython\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,098: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\__pycache__\\error.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,128: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,128: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\constants.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,128: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,138: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\utils\\__pycache__\\constant_names.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,138: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\context.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,138: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\attrsettr.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,138: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\socket.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,138: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\poll.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,138: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\utils\\__pycache__\\jsonapi.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,138: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\utils\\__pycache__\\strtypes.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,148: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\frame.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,148: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\tracker.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,148: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\version.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,148: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\sugar\\__pycache__\\stopwatch.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,148: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\eventloop\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,158: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\zmq\\eventloop\\__pycache__\\ioloop.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,158: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\ioloop.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,188: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\concurrent.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,188: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\platform\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,188: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\platform\\__pycache__\\asyncio.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,188: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\gen.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,198: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\httpserver.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,198: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\http1connection.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,198: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\httputil.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,198: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\iostream.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,208: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\netutil.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,208: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\platform\\__pycache__\\auto.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,208: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\platform\\__pycache__\\windows.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,228: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\platform\\__pycache__\\posix.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,228: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\tcpserver.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,238: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\process.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,238: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\web.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,238: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\locale.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,248: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\_locale_data.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,248: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\template.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,248: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\tornado\\__pycache__\\routing.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,258: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\base\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,258: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\notebook\\base\\__pycache__\\handlers.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,258: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\prometheus_client\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,258: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\prometheus_client\\__pycache__\\exposition.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,258: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\wsgiref\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:40,268: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\wsgiref\\__pycache__\\simple_server.cpython-38.pyc', reloading
+INFO:2022-05-22 15:01:41,496: * Restarting with windowsapi reloader
+WARNING:2022-05-22 15:01:44,867: * Debugger is active!
+INFO:2022-05-22 15:01:44,877: * Debugger PIN: 786-588-738
+INFO:2022-05-22 15:01:44,917: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 15:01:52,036: * Detected change in 'C:\\Users\\hp\\A_CC_FRAUD_DETECTION\\deployment_inputs.py', reloading
+INFO:2022-05-22 15:01:53,256: * Restarting with windowsapi reloader
+WARNING:2022-05-22 15:01:56,375: * Debugger is active!
+INFO:2022-05-22 15:01:56,385: * Debugger PIN: 786-588-738
+INFO:2022-05-22 15:01:56,425: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2022-05-22 15:02:11,711:127.0.0.1 - - [22/May/2022 15:02:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:2022-05-22 15:02:12,321:127.0.0.1 - - [22/May/2022 15:02:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2022-05-22 15:02:55,400:Active User Found
+INFO:2022-05-22 15:02:55,403:Inputs from user {'LIMIT_BAL': 10000.0, 'SEX': 'male', 'EDUCATION': 'high school', 'MARRIAGE': 'single', 'AGE': 22, 'PAY_0': '-2', 'PAY_2': '-2', 'PAY_3': '-2', 'PAY_4': '-2', 'PAY_5': '-2', 'PAY_6': '-2', 'BILL_AMT1': 10.0, 'BILL_AMT2': 10.0, 'BILL_AMT3': 10.0, 'BILL_AMT4': 10.0, 'BILL_AMT5': 10.0, 'BILL_AMT6': 10.0, 'PAY_AMT1': 10.0, 'PAY_AMT2': 10.0, 'PAY_AMT3': 10.0, 'PAY_AMT4': 10.0, 'PAY_AMT5': 10.0, 'PAY_AMT6': 1010.0}
+INFO:2022-05-22 15:02:55,414: * Detected change in 'C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+INFO:2022-05-22 15:02:55,690:Probability Of Default is 0.4820534896479024
+INFO:2022-05-22 15:02:55,690:127.0.0.1 - - [22/May/2022 15:02:55] "[37mPOST /predict HTTP/1.1[0m" 200 -
+INFO:2022-05-22 15:02:56,870: * Restarting with windowsapi reloader
+WARNING:2022-05-22 15:02:59,486: * Debugger is active!
+INFO:2022-05-22 15:02:59,494: * Debugger PIN: 786-588-738
+INFO:2022-05-22 15:02:59,532: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

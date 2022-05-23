@@ -1,0 +1,27 @@
+INFO:2022-05-21 17:07:23,306:Dropping Id column
+INFO:2022-05-21 17:07:23,322:Data Processing Unknown Values
+INFO:2022-05-21 17:07:34,488:Dropping Id column
+INFO:2022-05-21 17:07:34,496:Data Processing Unknown Values
+INFO:2022-05-21 17:10:35,917:Dropping Id column
+INFO:2022-05-21 17:10:35,925:Data Processing Unknown Values
+INFO:2022-05-21 17:11:54,083:Dropping Id column
+INFO:2022-05-21 17:11:54,083:Data Processing Unknown Values
+INFO:2022-05-21 17:13:17,325:Dropping Id column
+INFO:2022-05-21 17:13:17,333:Data Processing Unknown Values
+INFO:2022-05-21 17:14:11,800:Dropping Id column
+INFO:2022-05-21 17:14:11,811:Data Processing Unknown Values
+INFO:2022-05-21 17:14:11,827:Creating a new feature to capture positivity of Bill_Amt Features
+INFO:2022-05-21 17:14:11,948:New Features Formed
+INFO:2022-05-21 17:14:11,948:Taking The absolute Of bill amounts
+INFO:2022-05-21 17:14:12,028:Outlier Treatment in process
+INFO:2022-05-21 17:14:12,116:Outlier Treatment Complete
+INFO:2022-05-21 17:14:12,116:Splitting Data into train and test sets
+INFO:2022-05-21 17:15:29,104:Dropping Id column
+INFO:2022-05-21 17:15:29,112:Data Processing Unknown Values
+INFO:2022-05-21 17:15:29,120:Creating a new feature to capture positivity of Bill_Amt Features
+INFO:2022-05-21 17:15:29,230:New Features Formed
+INFO:2022-05-21 17:15:29,230:Taking The absolute Of bill amounts
+INFO:2022-05-21 17:15:29,292:Outlier Treatment in process
+INFO:2022-05-21 17:15:29,339:Outlier Treatment Complete
+INFO:2022-05-21 17:15:29,339:Splitting Data into train and test sets
+INFO:2022-05-21 17:15:29,405:Balancing the data
