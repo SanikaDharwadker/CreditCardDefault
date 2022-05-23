@@ -8,7 +8,7 @@ Financial threats are displaying a trend about the credit risk of commercial ban
 
 ## 📊 Data Source
 In our dataset we have 25 columns which reflect various attributes
-of the customer. The target column is default.payment.next.month which reflects wether the customer defaulted or not.
+of the customer. The target column is default.payment.next.month , which reflects wether the customer defaulted or not.
 Our aim is to predict the probability of default given the payment history of the customer.
 I have built my model using a public dataset available on kaggle.
 
@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 #### Notebook Description :
 •	General Data Visualisation, Analysing relation between features and target.
 •	Using Boxplots to visualize outliers.
-•	Data Sanity Checks
+•	Data Sanity Checks.
 
 #### Notebook Name : 1.2_FEATURE ENGINEERING FOR CATEGORICAL FEATURES
 
@@ -29,12 +29,12 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 #### Notebook Description :
 
-•	Load and pre-process the data using custom-defined module
-•	This module performs data sanity checks, replaces unknowns,removes outliers and balances the data 
+•	Load and pre-process the data using custom-defined module.
+•	This module performs data sanity checks, replaces unknowns,removes outliers and balances the data. 
 •	To handle our categoric features I created a basic random forest model. I tried one-hot encoding, count encoding, target mean encoding and leaving the categories as discrete ordinal features.
 •	The best results were obtained by target mean encoding. 
 •	Hence the categoric features have been target mean encoded.
-•	For logistic regression we have scaled the data 
+•	For logistic regression we have scaled the data.
 •	The pre-processed data has been saved as train.csv and test.csv
 
 
@@ -45,13 +45,13 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 #### Notebook Description :
 
-•	We have built logistic regression , random forest,balanced random forest , xgboost and adaboost classifier models
+•	We have built logistic regression , random forest,balanced random forest , xgboost and adaboost classifier models.
 •	To build each of the model we hae used a custom defined module Build_Evaluate_Model.
 •	For each of the model we start by building a base model which is based on default parameters of the model.
-•	We then perform hyperparameter tuning and find the best model
-•	We save the train and test score for model comparison
+•	We then perform hyperparameter tuning and find the best model.
+•	We save the train and test score for model comparison.
 •	Model Evaluation : For  every model built we record the train and test roc_auc score 
-•	We choose the best model based on train and test roc_auc score and difference between train and test score to ensure that there is no overfitting
+•	We choose the best model based on train and test roc_auc score and difference between train and test score to ensure that there is no overfitting.
 
 -  Final Model is stored as pickle file Final_Model.pkl.
 
