@@ -14,7 +14,7 @@ I have built my model using a public dataset available on kaggle.
 
 https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
-## Web UI
+## 🖥 Web UI
 
 ![App Screenshot](https://media.giphy.com/media/3xTgcAJ5QW9W6DOLqZ/giphy.gif)
 
