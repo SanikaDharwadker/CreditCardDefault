@@ -83,8 +83,11 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 ## ⚡Deployment
 
-
 Deployed on web using Heroku url : https://credit-default-prob.herokuapp.com/
+
+## ⚡Demo Video 
+
+Deployed on web using Heroku url : (https://drive.google.com/file/d/1sJpzDYLG1QTgLjxvvuqkgJDBN4a984zq/view?usp=sharing)
 
 ## Author✍
 
