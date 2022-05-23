@@ -8,7 +8,7 @@ Financial threats are displaying a trend about the credit risk of commercial ban
 
 ## 📊 Data Source
 In our dataset we have 25 columns which reflect various attributes
-of the customer. The target column is default.payment.next.month , which reflects wether the customer defaulted or not.
+of the customer. The target column is default.payment.next.month , which reflects whether the customer defaulted or not.
 Our aim is to predict the probability of default given the payment history of the customer.
 I have built my model using a public dataset available on kaggle.
 
