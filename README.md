@@ -91,7 +91,7 @@ Deployed on web using Heroku url : https://credit-default-prob.herokuapp.com/
 
 ## ⚡Demo Video 
 
-[For Project Demo Click Here](https://drive.google.com/file/d/1sJpzDYLG1QTgLjxvvuqkgJDBN4a984zq/view?usp=sharing)
+[For Project Demo Click Here](https://youtu.be/TogjCHuyjK8)
 
 ## Author✍
 
